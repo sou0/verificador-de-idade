@@ -1,0 +1,54 @@
+body{
+    background-color: #398ff1;
+    font: normal 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+header{
+    padding-bottom: 5px;
+    text-align: center;
+    color: white;
+}
+
+.input1{
+    display: flex;
+}
+
+
+.resultado{
+    text-align: center;
+}
+
+input#ano{
+    height: 20px;
+    margin-top: 13px;
+    margin-left: 5px;
+}
+
+
+section{
+    padding: 15px;
+    background-color: white;
+    border-radius: 15px;
+    width: 50%;
+    box-shadow: 10px 10px 10px 10px#00000052;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+
+}
+
+footer{
+    text-align: center;
+    color: white;
+}
+
+/**
+img{
+    height: 400px;
+    width: 400px;
+    border-radius: 100%;
+} 
+**/
